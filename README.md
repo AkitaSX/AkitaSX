@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff64b)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff64b)![Static Badge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 
