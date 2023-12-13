@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff64b)<img alt="Static Badge" src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=codecademy&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white">
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=%23fff64b)<img alt="Static Badge" src="https://img.shields.io/badge/CMD-black?style=for-the-badge&logo=codecademy&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/Amazon_Web_Services-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
 
 
 
